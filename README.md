@@ -46,3 +46,8 @@ services:
 volumes:
   - ./data:/data
 ```
+
+```
+wget https://cdn.modrinth.com/data/qmeKRMsC/versions/pX46DHKC/no-trial-chambers-1.2.jar
+
+```
